@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Todo é é uma pequena aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.
+O Todo é é uma pequena aplicação de atividades a fazer, para treinar manipulação de estado no React.
 
 ## 🔖 Solução
 
